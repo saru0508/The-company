@@ -41,6 +41,7 @@
                          <button type="submit" class="btn btn-success w-100">Register</button>
                     </form>
                     <p class="text-center mt-3 small">Registered Already? <a href="../views">Login</a></p>
+                    <p class="text-center mt-3 small">Kredo 2024</p>
                 </div>
             </div>
         </div>
